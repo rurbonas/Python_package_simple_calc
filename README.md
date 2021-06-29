@@ -32,7 +32,7 @@ author = "Ron"
 author_email = "abc@abc.com"
 url = "https//www.spartaglobal.com"
 ```
-- code for `fizzbuzz.py`
+- code for `simple_calc.py`
 ```python
 # Create a class called Calculator
 class Calculator:
